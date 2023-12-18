@@ -51,14 +51,14 @@ int main() {
 }
 ```
 ## Type
-1. int
-2. unsigned int
-3. long
-4. short
-5. float
-6. double
-7. char
-8. boolean
+1. `int`
+2. `unsigned int`
+3. `long`
+4. `short`
+5. `float`
+6. `double`
+7. `char`
+8. `boolean`
 ```c
 #include <stdio.h>
 #include <stdbool.h> // C99
@@ -94,29 +94,29 @@ int main()
 ```
 # Operation
 ## basic operation
-1. +
-2. -
-3. *
-4. /
-5. % (나머지)
+1. `+`
+2. `-`
+3. `*`
+4. `/`
+5. `% (나머지)`
 ## increase, decrease operation
-1. ++
-2. --
+1. `++`
+2. `--`
 ## compare operation
-1. >, <
-2. >=, <=
-3. == , !=
+1. `>, <`
+2. `>=, <=`
+3. `== , !=`
 ## bit operation
-1. & (AND)
-2. | (OR)
-3. >>, << (Shift)
-4. ^ (XOR)
+1. `& (AND)`
+2. `| (OR)`
+3. `>>, << (Shift)`
+4. `^ (XOR)`
 ## complex assignment operation
-1. +=
-2. -=
-3. *=
-4. /=
-5. %=
+1. `+=`
+2. `-=`
+3. `*=`
+4. `/=`
+5. `%=`
 # Print and Scan
 ## Printf
 1. printf
@@ -127,24 +127,24 @@ int main()
 	1. &변수이름
 # Conditional
 ## if
-1. if
-2. else if
-3. else
+1. `if`
+2. `else if`
+3. `else`
 ## switch
-1. switch and case
-2. break
+1. `switch and case`
+2. `break`
 # Loop
 ## while
-1. while
-2. do while
+1. `while`
+2. `do while`
 ## for
-1. for
+1. `for`
 # Array
 ## one dimension array
 1. `[]`
 ## String
-1. char array
-2. null 문자
+1. `char array`
+2. `null 문자`
 ## two dimension array
 1. `[][]`
 # Function
